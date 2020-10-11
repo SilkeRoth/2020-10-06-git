@@ -22,4 +22,5 @@
 - `git remote add origin <URL>`: adds the url with the name "origin"
 
 - `git push origin master`: sends master branch on local computer
-	
+
+- github allows you to do changes online using the pensil (plain text files)
