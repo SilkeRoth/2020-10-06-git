@@ -1,5 +1,5 @@
 
-# 2020-10-06-git
+# 2020-10-06: Git Basics Notes
 
 ## Local
 
