@@ -1,6 +1,8 @@
 
 # 2020-10-06-git
 
+## Local
+
 - `git init`: create git repository in current folder
 	- you only do this once per repository
 	- do not nest git repositories
